@@ -1,0 +1,62 @@
+body
+{
+	background-color: #232425;
+}
+
+h2
+{
+	margin-top: 10px;
+	color:white;
+	font-size: 4rem;
+	text-align: center;
+}
+#main_block
+{
+	margin-left: 370px;
+	margin-right:370px;
+	margin-top: 10px;
+	border:5px solid white;
+	width:500px;
+	height:450px;
+}
+.block
+{
+	
+	height: 150px;
+	width: 150px;
+	border:5px solid white;
+	border-radius: 10px;
+}
+.green
+{
+	margin-top: 50px;
+	margin-left: 50px;
+	background: green;
+	float: left;
+	
+}
+.red
+{
+	margin-top: 50px;
+	margin-right: 50px;
+	background: red;
+	float: right;
+}
+.yellow
+{
+	margin-left: 50px;
+	margin-top: 50px;
+	background: yellow;
+	float: left;
+}
+.blue
+{
+	margin-top: 50px;
+	margin-right: 50px;
+	background: blue;
+	float: right;
+}
+.selected
+{
+	box-shadow: 10px 5px white;
+}
